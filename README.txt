@@ -1,0 +1,1 @@
+An AI that automatically does work from your clipboard. Be careful and do not paste it's output blindly, and read through your input, teachers will put small white text in work to get around this.
